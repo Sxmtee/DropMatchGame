@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27475153704",
+    "project_id": "dropmatch-982db",
+    "storage_bucket": "dropmatch-982db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27475153704:android:e740993043e6955cf8f61d",
+        "android_client_info": {
+          "package_name": "com.example.dropmatchgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClE0KSmLy7f1DOnaaEhqsyhRxnpfEzqlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
